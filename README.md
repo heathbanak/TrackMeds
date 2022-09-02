@@ -1,5 +1,5 @@
 # TrackMeds
-A basic C++ program to help track medications taken
+A basic C++ program to help track medications taken. 
 Implented for personal use
 
 
